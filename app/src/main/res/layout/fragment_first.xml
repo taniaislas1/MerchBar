@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <View
+        android:layout_width="128dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#F44336">
+
+    </View>
+
+    <View
+        android:layout_width="128dp"
+        android:layout_height="124dp"
+        android:layout_gravity="top|start"
+        android:background="#009688">
+
+    </View>
+
+    <View
+        android:layout_width="128dp"
+        android:layout_height="124dp"
+        android:layout_gravity="top|end"
+        android:background="#E91E63">
+
+    </View>
+
+    <View
+        android:layout_width="128dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center_vertical"
+        android:background="#4CAF50">
+
+    </View>
+
+    <View
+        android:layout_width="128dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center"
+        android:background="#9C27B0">
+
+    </View>
+
+    <View
+        android:layout_width="128dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center|end"
+        android:background="#8BC34A">
+
+    </View>
+
+    <View
+        android:layout_width="128dp"
+        android:layout_height="124dp"
+        android:layout_gravity="bottom|end"
+        android:background="#673AB7">
+
+    </View>
+
+    <View
+        android:layout_width="128dp"
+        android:layout_height="124dp"
+        android:layout_gravity="bottom|start"
+        android:background="#CDDC39">
+
+    </View>
+
+    <View
+        android:layout_width="128dp"
+        android:layout_height="124dp"
+        android:layout_gravity="bottom|center"
+        android:background="#3F51B5">
+
+    </View>
+
+
+    </FrameLayout>
