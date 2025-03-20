@@ -72,7 +72,7 @@
         android:layout_width="128dp"
         android:layout_height="124dp"
         android:layout_gravity="bottom|center"
-        android:background="#3F51B5">
+        android:background="@color/black">
 
     </View>
 
