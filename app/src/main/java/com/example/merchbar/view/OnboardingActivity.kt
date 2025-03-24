@@ -40,3 +40,4 @@ class OnboardingActivity : AppCompatActivity() {
                 || super.onSupportNavigateUp()
     }
 }
+
